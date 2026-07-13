@@ -1,0 +1,263 @@
+**********************SHORT MAIL {SPAM}*************************
+Spam Email 1
+
+Subject: 🎉 Congratulations! You Won $5,000
+
+Dear User,
+
+You have been selected as the lucky winner of $5,000. Claim your reward now by clicking the link below before it expires.
+
+Click Here: http://claim-your-prize-now.com
+
+Congratulations!
+
+_____________________________________________________________________________________________________________________________________________________________
+
+Spam Email 2
+
+Subject: Urgent: Verify Your Account
+
+Dear Customer,
+
+Your account has been temporarily suspended due to suspicious activity. Verify your information immediately to avoid permanent closure.
+
+Verify Now: http://secure-account-check.com
+
+Thank you.
+_____________________________________________________________________________________________________________________________________________________________
+
+Spam Email 3
+
+Subject: Limited Time Offer – 90% OFF!
+
+Hi,
+
+Don't miss this exclusive deal! Get 90% OFF on premium products today only.
+
+Shop Now: http://super-discount-sale.com
+
+Offer ends tonight!
+_____________________________________________________________________________________________________________________________________________________________
+
+**********************LONG MAIL {SPAM}*************************
+Spam Email 1
+
+Subject: 🎉 Congratulations! You've Won a $25,000 Cash Prize
+
+Dear Valued Customer,
+
+We are excited to inform you that your email address has been randomly selected as the winner of our international promotional lottery. You have won a grand cash prize of $25,000 along with an exclusive vacation package.
+
+To receive your winnings, you must verify your identity within the next 24 hours. Failure to complete the verification process will result in the cancellation of your prize and it will be awarded to another participant.
+
+Please reply with the following details:
+
+Full Name
+Address
+Mobile Number
+Age
+Occupation
+
+Once we receive your information, our claims department will immediately process your reward. Do not share this opportunity with anyone, as it is confidential until your payment has been completed.
+
+Congratulations once again on becoming one of our lucky winners!
+
+Best Regards,
+Prize Distribution Department
+_____________________________________________________________________________________________________________________________________________________________
+
+Spam Email 2
+
+Subject: ⚠️ Immediate Action Required – Your Bank Account Will Be Locked
+
+Dear Customer,
+
+Our security team has detected unusual login attempts from multiple locations on your online banking account. To protect your funds, we have temporarily restricted access to your account.
+
+You are required to verify your account information immediately. If verification is not completed within the next 12 hours, your account will be permanently suspended and all pending transactions may be canceled.
+
+Please click the secure verification link below and confirm your banking details:
+
+Verify Account: http://secure-banking-update-example.com
+
+Failure to respond promptly may result in the permanent loss of account access. Our customer support team is available 24/7 to assist you throughout the verification process.
+
+Thank you for your cooperation.
+
+Security Verification Team
+_____________________________________________________________________________________________________________________________________________________________
+Spam Email 3
+
+Subject: 🚀 Exclusive Investment Opportunity – Earn Guaranteed Daily Profits
+
+Hello,
+
+We are pleased to offer you an exclusive investment program available only to a limited number of participants. Our automated trading system has generated consistent returns for thousands of investors worldwide, with profits reaching up to 300% within a single month.
+
+No prior experience is required. Simply create your account, deposit a minimum investment of $100, and our expert trading software will generate profits on your behalf.
+
+Why join us?
+
+Guaranteed daily returns
+Zero investment risk
+Instant withdrawals
+24/7 expert support
+Limited-time bonus of $500 for new members
+
+This offer is available for a short time only. Register today to secure your position before all membership slots are filled.
+
+Sign Up Now: http://fast-profit-investment-example.com
+
+We look forward to helping you achieve financial freedom.
+
+Sincerely,
+Global Investment Promotions Team
+
+_____________________________________________________________________________________________________________________________________________________________
+
+**********************SHORT MAIL {NOT SPAM}*************************
+Non-Spam Email 1
+
+Subject: Meeting Reminder
+
+Hi Team,
+
+This is a reminder that our project meeting is scheduled for tomorrow at 10:00 AM in the conference room. Please bring your progress updates.
+
+Best regards,
+Rohan
+_____________________________________________________________________________________________________________________________________________________________
+Non-Spam Email 2
+
+Subject: Invoice Attached
+
+Hello,
+
+Please find the attached invoice for the services provided this month. Let me know if you have any questions or need any additional documents.
+
+Thank you,
+Priya
+_____________________________________________________________________________________________________________________________________________________________
+Non-Spam Email 3
+
+Subject: Leave Request
+
+Dear Manager,
+
+I would like to request leave for Friday due to a family function. I have completed my pending tasks and will ensure a smooth handover before my leave.
+
+Thank you for your consideration.
+
+Regards,
+Amit
+_____________________________________________________________________________________________________________________________________________________________
+
+**********************LONG MAIL {NOT SPAM}*************************
+Non-Spam Email 1
+
+Subject: Weekly Project Status Update
+
+Dear Team,
+
+I hope everyone is doing well.
+
+I wanted to share a quick update on the progress of our current project. Over the past week, we successfully completed the user authentication module, integrated the database with the backend API, and resolved several bugs reported during testing. The frontend interface has also been updated based on the latest feedback from the design team.
+
+For the coming week, our priorities include implementing the dashboard analytics, improving application performance, and completing end-to-end testing. Please ensure that all assigned tasks are updated in the project tracker before Friday so we can review our progress during the weekly meeting.
+
+If anyone encounters blockers or requires additional support, please inform the team as early as possible so we can resolve the issue without delaying the project timeline.
+
+Thank you all for your hard work and dedication. Your contributions have been invaluable, and I appreciate the collaborative effort everyone has shown.
+
+Best regards,
+Rahul Sharma
+_____________________________________________________________________________________________________________________________________________________________
+
+Non-Spam Email 2
+
+Subject: Invitation to Annual Team Workshop
+
+Hello Everyone,
+
+I am pleased to invite you to our Annual Team Workshop, which will be held next Thursday from 9:30 AM to 4:30 PM in the main conference hall. The purpose of this workshop is to review our achievements over the past year, discuss upcoming goals, and participate in interactive sessions focused on improving teamwork and communication.
+
+The event will include presentations from department leaders, technical demonstrations, group activities, and a question-and-answer session. Lunch and refreshments will be provided throughout the day.
+
+Please confirm your attendance by replying to this email before Monday so we can finalize the seating arrangements and catering requirements. If you have any dietary restrictions or accessibility requirements, kindly let us know in advance.
+
+We look forward to your participation and hope this workshop will provide valuable insights and opportunities for everyone to learn and collaborate.
+
+Warm regards,
+Human Resources Team
+_____________________________________________________________________________________________________________________________________________________________
+Non-Spam Email 3
+
+Subject: Thank You for Your Recent Purchase
+
+Dear Customer,
+
+Thank you for choosing our store for your recent purchase. We truly appreciate your trust in our products and services.
+
+Your order has been successfully processed and is currently being prepared for shipment. Once it has been dispatched, you will receive another email containing your tracking number and estimated delivery date. You can use the tracking information to monitor the status of your package throughout the delivery process.
+
+If you have any questions regarding your order, need assistance with a product, or wish to request a return or exchange, our customer support team is always available to help. Simply reply to this email or contact us through our support portal.
+
+We continuously strive to provide the best shopping experience possible, and your feedback is very important to us. After receiving your order, we would greatly appreciate it if you could share your experience by leaving a review.
+
+Thank you once again for shopping with us. We hope to serve you again in the future.
+
+Kind regards,
+Customer Support Team
+_____________________________________________________________________________________________________________________________________________________________
+**********************SHORT SMS {SPAM}*************************
+Spam SMS 1
+
+🎉 Congratulations! You've won a ₹50,000 cash prize. Claim now before midnight: http://claim-reward-example.com
+_____________________________________________________________________________________________________________________________________________________________
+Spam SMS 2
+
+⚠️ URGENT: Your bank account has been suspended. Verify your details immediately to avoid permanent closure: http://secure-bank-example.com
+_____________________________________________________________________________________________________________________________________________________________
+Spam SMS 3
+
+💰 Earn ₹10,000/day working from home! No experience required. Register now: http://easy-income-example.com Limited seats available!
+_____________________________________________________________________________________________________________________________________________________________
+**********************LONG SMS {SPAM}*************************
+Spam SMS 1
+
+🎉 Congratulations! Your mobile number has been selected as the lucky winner of a ₹1,00,000 cash prize in our exclusive promotional campaign. To claim your reward, verify your details within the next 24 hours by visiting http://claim-prize-example.com. Failure to respond before the deadline will result in cancellation of your prize. Don't miss this once-in-a-lifetime opportunity!
+
+Spam SMS 2
+
+⚠️ Important Notice! Our security system has detected unusual activity on your bank account. Your account will be temporarily suspended unless you verify your identity immediately. Click http://secure-bank-update-example.com to confirm your account details. Failure to complete verification within 12 hours may result in restricted access to your account. Please act now.
+
+Spam SMS 3
+
+💰 Limited-Time Offer! Start earning ₹15,000–₹30,000 per week from home with our guaranteed online income program. No experience or investment is required to begin. Register today at http://earn-fast-example.com and receive a ₹5,000 joining bonus. Hurry! This exclusive offer is available for a limited number of participants only.
+_____________________________________________________________________________________________________________________________________________________________
+**********************SHORT SMS {NOT SPAM}*************************
+Non-Spam SMS 1
+
+Hi Rahul, our meeting has been rescheduled to 3:00 PM today. Please be on time.
+_____________________________________________________________________________________________________________________________________________________________
+Non-Spam SMS 2
+
+Your order has been shipped successfully and is expected to arrive by Friday. Thank you for shopping with us.
+_____________________________________________________________________________________________________________________________________________________________
+Non-Spam SMS 3
+
+Good morning! Don't forget your doctor's appointment tomorrow at 10:30 AM. See you then.
+_____________________________________________________________________________________________________________________________________________________________
+**********************LONG SMS {NOT SPAM}*************************
+Non-Spam SMS 1
+
+Hi Rohan, just a reminder that our project meeting is scheduled for tomorrow at 10:00 AM in Conference Room B. Please bring the latest project report and be prepared to discuss your progress. If you're running late or have any questions before the meeting, let me know in advance. Looking forward to seeing everyone there.
+_____________________________________________________________________________________________________________________________________________________________
+Non-Spam SMS 2
+
+Hello! Your online order has been packed and shipped successfully. You can expect delivery within the next 2–3 business days. A tracking number has been sent to your registered email address. If you need to change the delivery address or have any questions about your order, please contact our customer support team.
+_____________________________________________________________________________________________________________________________________________________________
+Non-Spam SMS 3
+
+Hi Priya, I hope you're doing well. I wanted to let you know that the training session has been moved to Friday at 2:00 PM due to a scheduling conflict. The venue remains the same, and all presentation materials will be shared before the session begins. Please let me know if you'll be able to attend or if you need any additional information.
+_____________________________________________________________________________________________________________________________________________________________
