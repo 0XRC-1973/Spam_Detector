@@ -1,88 +1,107 @@
-# 📧 Email/SMS Spam Detector using Machine Learning
+# 📧 Spam Detector – AI-Powered SMS & Email Spam Classifier
 
-A Machine Learning-based web application that classifies **Email** and **SMS** messages as **Spam** or **Not Spam (Ham)**. This project leverages **Natural Language Processing (NLP)** techniques and supervised Machine Learning algorithms to detect unwanted messages with high accuracy.
+<p align="center">
+  <h3 align="center">
+    An intelligent Machine Learning application that classifies SMS and Email messages as <b>Spam</b> or <b>Not Spam</b> using Natural Language Processing (NLP).
+  </h3>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+</p>
+
+<p align="center">
+
+<a href="YOUR_STREAMLIT_DEPLOYMENT_LINK">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Application-success?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/0XRC-1973/Spam_Detector">
+<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 ---
 
-# 📖 Table of Contents
+# 📖 About
 
-* Project Overview
-* Features
-* Tech Stack
-* Project Structure
-* Dataset
-* Machine Learning Workflow
-* Installation
-* Execution Steps
-* Model Training
-* How to Use
-* Results
-* Future Improvements
-* Contributing
-* License
-* Author
+Spam Detector is a Machine Learning and Natural Language Processing (NLP) based web application that accurately classifies SMS and email messages as **Spam** or **Not Spam**.
 
----
-
-# 🚀 Project Overview
-
-Spam messages are one of the most common problems in digital communication. This project demonstrates how Machine Learning can automatically classify incoming Email or SMS messages into:
-
-* ✅ Ham (Legitimate Message)
-* ❌ Spam (Unwanted Message)
-
-The model is trained using a labeled dataset and employs Natural Language Processing (NLP) techniques to preprocess text before making predictions.
+The application preprocesses user input, transforms text into numerical features using **TF-IDF Vectorization**, and predicts the message category using a trained Machine Learning model. A simple and interactive **Streamlit** interface enables users to perform real-time spam detection.
 
 ---
 
 # ✨ Features
 
-* Detects Spam and Ham messages.
-* Supports Email and SMS text.
-* Real-time prediction.
-* Clean and interactive web interface.
-* Text preprocessing using NLP.
-* High accuracy Machine Learning model.
-* Easy to extend with larger datasets.
+- 📩 Detect Spam & Ham messages instantly
+- 🤖 Machine Learning based prediction
+- 🧠 Natural Language Processing (NLP)
+- 📝 Text preprocessing & cleaning
+- 📊 TF-IDF Feature Extraction
+- ⚡ Real-time prediction
+- 💻 Interactive Streamlit Interface
+- 📱 Responsive & Easy-to-use UI
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
-## Programming Language
+| Technology | Purpose |
+|------------|---------|
+| Python | Programming Language |
+| Streamlit | Web Application |
+| Scikit-learn | Machine Learning |
+| Pandas | Data Processing |
+| NumPy | Numerical Computing |
+| NLTK | Natural Language Processing |
+| TF-IDF | Feature Extraction |
 
-* Python 3.x
+---
 
-## Libraries
+# ⚙️ Machine Learning Workflow
 
-* Pandas
-* NumPy
-* Scikit-learn
-* NLTK
-* Matplotlib
-* Seaborn
-* Pickle
-
-## Frontend
-
-* HTML
-* CSS
-
-## Backend
-
-* Flask
-
-## Development Environment
-
-* Jupyter Notebook
-* VS Code
+```text
+Input Message
+      │
+      ▼
+Text Preprocessing
+      │
+      ▼
+Tokenization
+      │
+      ▼
+Stopword Removal
+      │
+      ▼
+Stemming
+      │
+      ▼
+TF-IDF Vectorization
+      │
+      ▼
+Machine Learning Model
+      │
+      ▼
+Prediction
+      │
+      ▼
+Spam / Not Spam
+```
 
 ---
 
 # 📂 Project Structure
 
 ```text
-Email-SMS-Spam-Detector/
+Spam_Detector/
 │
 ├── app.py
 ├── model.pkl
@@ -91,178 +110,50 @@ Email-SMS-Spam-Detector/
 ├── requirements.txt
 ├── README.md
 │
-├── templates/
-│     └── index.html
+├── notebooks/
+│     spam_detection.ipynb
 │
-├── static/
-│     ├── style.css
-│     └── images/
+├── screenshots/
+│     home.png
+│     prediction.png
 │
-├── notebook/
-│     └── Spam_Detection.ipynb
-│
-└── utils/
-      └── preprocessing.py
+└── assets/
 ```
 
 ---
 
-# 📊 Dataset
+# 📸 Screenshots
 
-The project uses a labeled Spam dataset containing:
+## 🏠 Home Page
 
-* Message
-* Label (Spam / Ham)
-
-Example:
-
-| Label | Message                                                |
-| ----- | ------------------------------------------------------ |
-| Ham   | Hey, are we meeting today?                             |
-| Spam  | Congratulations! You have won ₹50,000. Click here now. |
+<p align="center">
+<img src="screenshots/home.png" width="900">
+</p>
 
 ---
 
-# 🤖 Machine Learning Workflow
+## 📩 Spam Prediction
 
-## Step 1: Import Libraries
-
-Load all required Python libraries.
-
----
-
-## Step 2: Load Dataset
-
-Read the dataset using Pandas.
+<p align="center">
+<img src="screenshots/prediction.png" width="900">
+</p>
 
 ---
 
-## Step 3: Data Cleaning
-
-* Remove duplicate records
-* Handle missing values
-* Rename columns
-* Convert labels into numerical values
-
----
-
-## Step 4: Exploratory Data Analysis (EDA)
-
-* Class distribution
-* Word frequency
-* Message length analysis
-* Visualizations
-
----
-
-## Step 5: Text Preprocessing
-
-The following NLP operations are performed:
-
-* Lowercase conversion
-* Remove punctuation
-* Tokenization
-* Stopword removal
-* Stemming
-
----
-
-## Step 6: Feature Extraction
-
-Convert text into numerical vectors using:
-
-* CountVectorizer
-  or
-* TF-IDF Vectorizer
-
----
-
-## Step 7: Train-Test Split
-
-Split the dataset into:
-
-* Training Set
-* Testing Set
-
----
-
-## Step 8: Model Training
-
-Train the Machine Learning model.
-
-Common algorithms:
-
-* Naive Bayes
-* Logistic Regression
-* Random Forest
-* Support Vector Machine
-
----
-
-## Step 9: Model Evaluation
-
-Evaluate using:
-
-* Accuracy
-* Precision
-* Recall
-* F1 Score
-* Confusion Matrix
-
----
-
-## Step 10: Save Model
-
-Save the trained model using Pickle.
-
-```python
-pickle.dump(model, open("model.pkl","wb"))
-```
-
----
-
-## Step 11: Deploy
-
-Use Flask to create a web application for real-time predictions.
-
----
-
-# ⚙ Installation
+# 🚀 Getting Started
 
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Email-SMS-Spam-Detector.git
-```
-
-```bash
-cd Email-SMS-Spam-Detector
+git clone https://github.com/0XRC-1973/Spam_Detector.git
 ```
 
 ---
 
-## Create Virtual Environment (Optional)
-
-Windows
+## Navigate to Project
 
 ```bash
-python -m venv venv
-```
-
-Activate
-
-```bash
-venv\Scripts\activate
-```
-
-Linux / macOS
-
-```bash
-python3 -m venv venv
-```
-
-```bash
-source venv/bin/activate
+cd Spam_Detector
 ```
 
 ---
@@ -275,140 +166,51 @@ pip install -r requirements.txt
 
 ---
 
-# ▶ Execution Steps
-
-### 1. Open Terminal
-
-Navigate to the project directory.
+## Run Streamlit App
 
 ```bash
-cd Email-SMS-Spam-Detector
+streamlit run app.py
 ```
-
----
-
-### 2. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-### 3. Run the Flask Application
-
-```bash
-python app.py
-```
-
----
-
-### 4. Open Browser
-
-Visit:
-
-```text
-http://127.0.0.1:5000/
-```
-
----
-
-### 5. Enter Message
-
-Example:
-
-```text
-Congratulations!
-You have won a FREE iPhone.
-Claim now.
-```
-
----
-
-### 6. Click Predict
-
-Output:
-
-```text
-Spam
-```
-
-or
-
-```text
-Not Spam
-```
-
----
-
-# 💻 How to Train the Model Again
-
-Run the notebook:
-
-```bash
-jupyter notebook
-```
-
-Open
-
-```text
-Spam_Detection.ipynb
-```
-
-Execute all cells.
-
-New files generated:
-
-* model.pkl
-* vectorizer.pkl
-
----
-
-# 📈 Results
-
-Typical model performance:
-
-| Metric    | Score   |
-| --------- | ------- |
-| Accuracy  | 97%–99% |
-| Precision | High    |
-| Recall    | High    |
-| F1 Score  | High    |
-
-> *Actual performance may vary depending on the dataset, preprocessing pipeline, and selected Machine Learning algorithm.*
 
 ---
 
 # 🎯 Future Improvements
 
-* Deep Learning (LSTM/GRU)
-* BERT-based Spam Detection
-* Email attachment scanning
-* URL analysis
-* Multi-language spam detection
-* Cloud deployment (AWS/Azure/GCP)
-* REST API integration
-* User authentication
-* Spam confidence score
-* Docker containerization
+- 📧 Email Spam Detection
+- 🌍 Multi-language Support
+- ☁️ Cloud Deployment
+- 📊 Model Performance Dashboard
+- 🔍 Explainable AI Predictions
+- 🧠 Deep Learning Models (LSTM/BERT)
+- 📱 Mobile Responsive Interface
 
 ---
 
 # 🤝 Contributing
 
-Contributions are welcome!
+Contributions are always welcome!
 
-1. Fork the repository.
-2. Create a feature branch.
-3. Commit your changes.
-4. Push the branch.
-5. Open a Pull Request.
+1. Fork the repository
 
----
+2. Create your feature branch
 
-# 📜 License
+```bash
+git checkout -b feature-name
+```
 
-This project is intended for educational and learning purposes. You may use, modify, and share it with appropriate attribution.
+3. Commit your changes
+
+```bash
+git commit -m "Added new feature"
+```
+
+4. Push to GitHub
+
+```bash
+git push origin feature-name
+```
+
+5. Open a Pull Request
 
 ---
 
@@ -416,10 +218,22 @@ This project is intended for educational and learning purposes. You may use, mod
 
 **Rimish Chandra Srivastava**
 
-* AI Project Engineer
-* Machine Learning Enthusiast
-* Python Developer
-* Full Stack Developer
-* Passionate about AI, Machine Learning, and Data Science
+🚀 Full Stack Developer • Python Developer • AI Enthusiast • Java Developer • Cyber Security Enthusiast
 
-⭐ If you found this project helpful, consider giving it a **Star** on GitHub!
+---
+
+# ⭐ Show Your Support
+
+If you found this project helpful,
+
+⭐ Star this repository
+
+🍴 Fork it
+
+📢 Share it with others
+
+---
+
+<p align="center">
+Made with ❤️ by <strong>Rimish Chandra Srivastava</strong>
+</p>
